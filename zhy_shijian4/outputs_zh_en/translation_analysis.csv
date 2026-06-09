@@ -1,0 +1,211 @@
+﻿source,reference,prediction,reference_len,prediction_len,token_f1,length_gap
+请帮我一下。,Please help me.,please help me .,4,4,1.0,0
+月亮挂在夜空。,The moon hangs in the night sky.,the moon hangs in the night sky .,8,8,1.0,0
+明天见。,See you tomorrow.,see you tomorrow .,4,4,1.0,0
+我想去海边游玩。,I want to travel to the seaside.,i want to travel to the seaside .,8,8,1.0,0
+我喜欢阅读和运动。,I like reading and sports.,i like reading and sports .,6,6,1.0,0
+努力就会有收获。,Hard work pays off.,hard work pays off .,5,5,1.0,0
+多喝水有益健康。,Drinking more water is good for health.,drinking more water is good for health .,8,8,1.0,0
+请排队等候。,Please line up.,please line up .,4,4,1.0,0
+花开了，春天来了。,Flowers bloom and spring comes.,flowers bloom and spring comes .,6,6,1.0,0
+早睡早起身体好。,Early to bed and early to rise keeps healthy.,early to bed and early to rise keeps healthy .,10,10,1.0,0
+冬天非常寒冷。,Winter is very cold.,winter is very cold .,5,5,1.0,0
+冬天非常寒冷。,Winter is very cold.,winter is very cold .,5,5,1.0,0
+今天天气很不错。,The weather is great today.,the weather is great today .,6,6,1.0,0
+花开了，春天来了。,Flowers bloom and spring comes.,flowers bloom and spring comes .,6,6,1.0,0
+请安静一点。,Please be quiet.,please be quiet .,4,4,1.0,0
+请帮我一下。,Please help me.,please help me .,4,4,1.0,0
+冬天非常寒冷。,Winter is very cold.,winter is very cold .,5,5,1.0,0
+窗外下起了小雨。,It is raining outside the window.,it is raining outside the window .,7,7,1.0,0
+月亮挂在夜空。,The moon hangs in the night sky.,the moon hangs in the night sky .,8,8,1.0,0
+明天见。,See you tomorrow.,see you tomorrow .,4,4,1.0,0
+窗外下起了小雨。,It is raining outside the window.,it is raining outside the window .,7,7,1.0,0
+冬天非常寒冷。,Winter is very cold.,winter is very cold .,5,5,1.0,0
+你好，很高兴认识你。,"Hello, nice to meet you.","hello , nice to meet you .",7,7,1.0,0
+多喝水有益健康。,Drinking more water is good for health.,drinking more water is good for health .,8,8,1.0,0
+你好，很高兴认识你。,"Hello, nice to meet you.","hello , nice to meet you .",7,7,1.0,0
+请排队等候。,Please line up.,please line up .,4,4,1.0,0
+这座城市很繁华。,This city is very prosperous.,this city is very prosperous .,6,6,1.0,0
+周末你打算做什么？,What are you going to do on the weekend?,what are you going to do on the weekend ?,10,10,1.0,0
+诚信是做人的根本。,Honesty is the foundation of life.,honesty is the foundation of life .,7,7,1.0,0
+我每天早上七点起床。,I get up at seven every morning.,i get up at seven every morning .,8,8,1.0,0
+明天见。,See you tomorrow.,see you tomorrow .,4,4,1.0,0
+请排队等候。,Please line up.,please line up .,4,4,1.0,0
+朋友之间要互相帮助。,Friends should help each other.,friends should help each other .,6,6,1.0,0
+朋友之间要互相帮助。,Friends should help each other.,friends should help each other .,6,6,1.0,0
+晚餐准备好了。,Dinner is ready.,dinner is ready .,4,4,1.0,0
+朋友之间要互相帮助。,Friends should help each other.,friends should help each other .,6,6,1.0,0
+这是一本有趣的书。,This is an interesting book.,this is an interesting book .,6,6,1.0,0
+早睡早起身体好。,Early to bed and early to rise keeps healthy.,early to bed and early to rise keeps healthy .,10,10,1.0,0
+这是一本有趣的书。,This is an interesting book.,this is an interesting book .,6,6,1.0,0
+请安静一点。,Please be quiet.,please be quiet .,4,4,1.0,0
+朋友之间要互相帮助。,Friends should help each other.,friends should help each other .,6,6,1.0,0
+朋友之间要互相帮助。,Friends should help each other.,friends should help each other .,6,6,1.0,0
+路上小心。,Take care on the way.,take care on the way .,6,6,1.0,0
+我喜欢阅读和运动。,I like reading and sports.,i like reading and sports .,6,6,1.0,0
+今天天气很不错。,The weather is great today.,the weather is great today .,6,6,1.0,0
+我有点累了。,I feel a little tired.,i feel a little tired .,6,6,1.0,0
+小鸟在树上唱歌。,Birds are singing in the tree.,birds are singing in the tree .,7,7,1.0,0
+花开了，春天来了。,Flowers bloom and spring comes.,flowers bloom and spring comes .,6,6,1.0,0
+我喜欢阅读和运动。,I like reading and sports.,i like reading and sports .,6,6,1.0,0
+这里禁止吸烟。,No smoking here.,no smoking here .,4,4,1.0,0
+我想去海边游玩。,I want to travel to the seaside.,i want to travel to the seaside .,8,8,1.0,0
+我有点累了。,I feel a little tired.,i feel a little tired .,6,6,1.0,0
+我想学英语。,I want to learn English.,i want to learn english .,6,6,1.0,0
+这个公园非常漂亮。,This park is very beautiful.,this park is very beautiful .,6,6,1.0,0
+多喝水有益健康。,Drinking more water is good for health.,drinking more water is good for health .,8,8,1.0,0
+我想去海边游玩。,I want to travel to the seaside.,i want to travel to the seaside .,8,8,1.0,0
+冬天非常寒冷。,Winter is very cold.,winter is very cold .,5,5,1.0,0
+花开了，春天来了。,Flowers bloom and spring comes.,flowers bloom and spring comes .,6,6,1.0,0
+我想学英语。,I want to learn English.,i want to learn english .,6,6,1.0,0
+这个公园非常漂亮。,This park is very beautiful.,this park is very beautiful .,6,6,1.0,0
+请安静一点。,Please be quiet.,please be quiet .,4,4,1.0,0
+这个公园非常漂亮。,This park is very beautiful.,this park is very beautiful .,6,6,1.0,0
+晚餐准备好了。,Dinner is ready.,dinner is ready .,4,4,1.0,0
+今天天气很不错。,The weather is great today.,the weather is great today .,6,6,1.0,0
+努力就会有收获。,Hard work pays off.,hard work pays off .,5,5,1.0,0
+诚信是做人的根本。,Honesty is the foundation of life.,honesty is the foundation of life .,7,7,1.0,0
+我有点累了。,I feel a little tired.,i feel a little tired .,6,6,1.0,0
+咖啡味道很好。,The coffee tastes good.,the coffee tastes good .,5,5,1.0,0
+我喜欢阅读和运动。,I like reading and sports.,i like reading and sports .,6,6,1.0,0
+小鸟在树上唱歌。,Birds are singing in the tree.,birds are singing in the tree .,7,7,1.0,0
+我有点累了。,I feel a little tired.,i feel a little tired .,6,6,1.0,0
+请帮我一下。,Please help me.,please help me .,4,4,1.0,0
+祝你有美好的一天。,Wish you a nice day.,wish you a nice day .,6,6,1.0,0
+晚餐准备好了。,Dinner is ready.,dinner is ready .,4,4,1.0,0
+晚餐准备好了。,Dinner is ready.,dinner is ready .,4,4,1.0,0
+我想去海边游玩。,I want to travel to the seaside.,i want to travel to the seaside .,8,8,1.0,0
+努力就会有收获。,Hard work pays off.,hard work pays off .,5,5,1.0,0
+我想学英语。,I want to learn English.,i want to learn english .,6,6,1.0,0
+我喜欢阅读和运动。,I like reading and sports.,i like reading and sports .,6,6,1.0,0
+我有点累了。,I feel a little tired.,i feel a little tired .,6,6,1.0,0
+多喝水有益健康。,Drinking more water is good for health.,drinking more water is good for health .,8,8,1.0,0
+努力就会有收获。,Hard work pays off.,hard work pays off .,5,5,1.0,0
+小鸟在树上唱歌。,Birds are singing in the tree.,birds are singing in the tree .,7,7,1.0,0
+努力就会有收获。,Hard work pays off.,hard work pays off .,5,5,1.0,0
+我想去海边游玩。,I want to travel to the seaside.,i want to travel to the seaside .,8,8,1.0,0
+请排队等候。,Please line up.,please line up .,4,4,1.0,0
+冬天非常寒冷。,Winter is very cold.,winter is very cold .,5,5,1.0,0
+今天天气很不错。,The weather is great today.,the weather is great today .,6,6,1.0,0
+我想学英语。,I want to learn English.,i want to learn english .,6,6,1.0,0
+努力就会有收获。,Hard work pays off.,hard work pays off .,5,5,1.0,0
+这是一本有趣的书。,This is an interesting book.,this is an interesting book .,6,6,1.0,0
+请排队等候。,Please line up.,please line up .,4,4,1.0,0
+时间过得很快。,Time flies quickly.,time flies quickly .,4,4,1.0,0
+多喝水有益健康。,Drinking more water is good for health.,drinking more water is good for health .,8,8,1.0,0
+多喝水有益健康。,Drinking more water is good for health.,drinking more water is good for health .,8,8,1.0,0
+音乐可以治愈心情。,Music can heal moods.,music can heal moods .,5,5,1.0,0
+你好，很高兴认识你。,"Hello, nice to meet you.","hello , nice to meet you .",7,7,1.0,0
+我喜欢阅读和运动。,I like reading and sports.,i like reading and sports .,6,6,1.0,0
+请排队等候。,Please line up.,please line up .,4,4,1.0,0
+这里禁止吸烟。,No smoking here.,no smoking here .,4,4,1.0,0
+花开了，春天来了。,Flowers bloom and spring comes.,flowers bloom and spring comes .,6,6,1.0,0
+早睡早起身体好。,Early to bed and early to rise keeps healthy.,early to bed and early to rise keeps healthy .,10,10,1.0,0
+周末你打算做什么？,What are you going to do on the weekend?,what are you going to do on the weekend ?,10,10,1.0,0
+这个公园非常漂亮。,This park is very beautiful.,this park is very beautiful .,6,6,1.0,0
+今天天气很不错。,The weather is great today.,the weather is great today .,6,6,1.0,0
+窗外下起了小雨。,It is raining outside the window.,it is raining outside the window .,7,7,1.0,0
+晚餐准备好了。,Dinner is ready.,dinner is ready .,4,4,1.0,0
+请安静一点。,Please be quiet.,please be quiet .,4,4,1.0,0
+你好，很高兴认识你。,"Hello, nice to meet you.","hello , nice to meet you .",7,7,1.0,0
+努力就会有收获。,Hard work pays off.,hard work pays off .,5,5,1.0,0
+我喜欢阅读和运动。,I like reading and sports.,i like reading and sports .,6,6,1.0,0
+咖啡味道很好。,The coffee tastes good.,the coffee tastes good .,5,5,1.0,0
+我想学英语。,I want to learn English.,i want to learn english .,6,6,1.0,0
+我喜欢阅读和运动。,I like reading and sports.,i like reading and sports .,6,6,1.0,0
+今天天气很不错。,The weather is great today.,the weather is great today .,6,6,1.0,0
+我想学英语。,I want to learn English.,i want to learn english .,6,6,1.0,0
+这个公园非常漂亮。,This park is very beautiful.,this park is very beautiful .,6,6,1.0,0
+这是一本有趣的书。,This is an interesting book.,this is an interesting book .,6,6,1.0,0
+这是一本有趣的书。,This is an interesting book.,this is an interesting book .,6,6,1.0,0
+诚信是做人的根本。,Honesty is the foundation of life.,honesty is the foundation of life .,7,7,1.0,0
+这座城市很繁华。,This city is very prosperous.,this city is very prosperous .,6,6,1.0,0
+花开了，春天来了。,Flowers bloom and spring comes.,flowers bloom and spring comes .,6,6,1.0,0
+这是一本有趣的书。,This is an interesting book.,this is an interesting book .,6,6,1.0,0
+明天见。,See you tomorrow.,see you tomorrow .,4,4,1.0,0
+花开了，春天来了。,Flowers bloom and spring comes.,flowers bloom and spring comes .,6,6,1.0,0
+我想去海边游玩。,I want to travel to the seaside.,i want to travel to the seaside .,8,8,1.0,0
+早睡早起身体好。,Early to bed and early to rise keeps healthy.,early to bed and early to rise keeps healthy .,10,10,1.0,0
+花开了，春天来了。,Flowers bloom and spring comes.,flowers bloom and spring comes .,6,6,1.0,0
+今天天气很不错。,The weather is great today.,the weather is great today .,6,6,1.0,0
+朋友之间要互相帮助。,Friends should help each other.,friends should help each other .,6,6,1.0,0
+早睡早起身体好。,Early to bed and early to rise keeps healthy.,early to bed and early to rise keeps healthy .,10,10,1.0,0
+早睡早起身体好。,Early to bed and early to rise keeps healthy.,early to bed and early to rise keeps healthy .,10,10,1.0,0
+祝你有美好的一天。,Wish you a nice day.,wish you a nice day .,6,6,1.0,0
+请帮我一下。,Please help me.,please help me .,4,4,1.0,0
+周末你打算做什么？,What are you going to do on the weekend?,what are you going to do on the weekend ?,10,10,1.0,0
+早睡早起身体好。,Early to bed and early to rise keeps healthy.,early to bed and early to rise keeps healthy .,10,10,1.0,0
+窗外下起了小雨。,It is raining outside the window.,it is raining outside the window .,7,7,1.0,0
+努力就会有收获。,Hard work pays off.,hard work pays off .,5,5,1.0,0
+今天天气很不错。,The weather is great today.,the weather is great today .,6,6,1.0,0
+诚信是做人的根本。,Honesty is the foundation of life.,honesty is the foundation of life .,7,7,1.0,0
+请排队等候。,Please line up.,please line up .,4,4,1.0,0
+时间过得很快。,Time flies quickly.,time flies quickly .,4,4,1.0,0
+早睡早起身体好。,Early to bed and early to rise keeps healthy.,early to bed and early to rise keeps healthy .,10,10,1.0,0
+我爱吃水果和蔬菜。,I love eating fruits and vegetables.,i love eating fruits and vegetables .,7,7,1.0,0
+诚信是做人的根本。,Honesty is the foundation of life.,honesty is the foundation of life .,7,7,1.0,0
+咖啡味道很好。,The coffee tastes good.,the coffee tastes good .,5,5,1.0,0
+这个公园非常漂亮。,This park is very beautiful.,this park is very beautiful .,6,6,1.0,0
+今天天气很不错。,The weather is great today.,the weather is great today .,6,6,1.0,0
+这座城市很繁华。,This city is very prosperous.,this city is very prosperous .,6,6,1.0,0
+多喝水有益健康。,Drinking more water is good for health.,drinking more water is good for health .,8,8,1.0,0
+我爱吃水果和蔬菜。,I love eating fruits and vegetables.,i love eating fruits and vegetables .,7,7,1.0,0
+多喝水有益健康。,Drinking more water is good for health.,drinking more water is good for health .,8,8,1.0,0
+我爱吃水果和蔬菜。,I love eating fruits and vegetables.,i love eating fruits and vegetables .,7,7,1.0,0
+我想学英语。,I want to learn English.,i want to learn english .,6,6,1.0,0
+小鸟在树上唱歌。,Birds are singing in the tree.,birds are singing in the tree .,7,7,1.0,0
+诚信是做人的根本。,Honesty is the foundation of life.,honesty is the foundation of life .,7,7,1.0,0
+我每天早上七点起床。,I get up at seven every morning.,i get up at seven every morning .,8,8,1.0,0
+窗外下起了小雨。,It is raining outside the window.,it is raining outside the window .,7,7,1.0,0
+我每天早上七点起床。,I get up at seven every morning.,i get up at seven every morning .,8,8,1.0,0
+音乐可以治愈心情。,Music can heal moods.,music can heal moods .,5,5,1.0,0
+这是一本有趣的书。,This is an interesting book.,this is an interesting book .,6,6,1.0,0
+月亮挂在夜空。,The moon hangs in the night sky.,the moon hangs in the night sky .,8,8,1.0,0
+我爱吃水果和蔬菜。,I love eating fruits and vegetables.,i love eating fruits and vegetables .,7,7,1.0,0
+这座城市很繁华。,This city is very prosperous.,this city is very prosperous .,6,6,1.0,0
+咖啡味道很好。,The coffee tastes good.,the coffee tastes good .,5,5,1.0,0
+我想学英语。,I want to learn English.,i want to learn english .,6,6,1.0,0
+周末你打算做什么？,What are you going to do on the weekend?,what are you going to do on the weekend ?,10,10,1.0,0
+我有点累了。,I feel a little tired.,i feel a little tired .,6,6,1.0,0
+你好，很高兴认识你。,"Hello, nice to meet you.","hello , nice to meet you .",7,7,1.0,0
+请排队等候。,Please line up.,please line up .,4,4,1.0,0
+请安静一点。,Please be quiet.,please be quiet .,4,4,1.0,0
+我想去海边游玩。,I want to travel to the seaside.,i want to travel to the seaside .,8,8,1.0,0
+窗外下起了小雨。,It is raining outside the window.,it is raining outside the window .,7,7,1.0,0
+祝你有美好的一天。,Wish you a nice day.,wish you a nice day .,6,6,1.0,0
+这座城市很繁华。,This city is very prosperous.,this city is very prosperous .,6,6,1.0,0
+请帮我一下。,Please help me.,please help me .,4,4,1.0,0
+这个公园非常漂亮。,This park is very beautiful.,this park is very beautiful .,6,6,1.0,0
+冬天非常寒冷。,Winter is very cold.,winter is very cold .,5,5,1.0,0
+窗外下起了小雨。,It is raining outside the window.,it is raining outside the window .,7,7,1.0,0
+我每天早上七点起床。,I get up at seven every morning.,i get up at seven every morning .,8,8,1.0,0
+我有点累了。,I feel a little tired.,i feel a little tired .,6,6,1.0,0
+我喜欢阅读和运动。,I like reading and sports.,i like reading and sports .,6,6,1.0,0
+我想学英语。,I want to learn English.,i want to learn english .,6,6,1.0,0
+今天天气很不错。,The weather is great today.,the weather is great today .,6,6,1.0,0
+多喝水有益健康。,Drinking more water is good for health.,drinking more water is good for health .,8,8,1.0,0
+诚信是做人的根本。,Honesty is the foundation of life.,honesty is the foundation of life .,7,7,1.0,0
+小鸟在树上唱歌。,Birds are singing in the tree.,birds are singing in the tree .,7,7,1.0,0
+我爱吃水果和蔬菜。,I love eating fruits and vegetables.,i love eating fruits and vegetables .,7,7,1.0,0
+朋友之间要互相帮助。,Friends should help each other.,friends should help each other .,6,6,1.0,0
+时间过得很快。,Time flies quickly.,time flies quickly .,4,4,1.0,0
+我想学英语。,I want to learn English.,i want to learn english .,6,6,1.0,0
+时间过得很快。,Time flies quickly.,time flies quickly .,4,4,1.0,0
+音乐可以治愈心情。,Music can heal moods.,music can heal moods .,5,5,1.0,0
+音乐可以治愈心情。,Music can heal moods.,music can heal moods .,5,5,1.0,0
+现在几点了？,What time is it now?,what time is it now ? ?,6,7,0.9231,1
+现在几点了？,What time is it now?,what time is it now ? ?,6,7,0.9231,1
+现在几点了？,What time is it now?,what time is it now ? ?,6,7,0.9231,1
+现在几点了？,What time is it now?,what time is it now ? ?,6,7,0.9231,1
+现在几点了？,What time is it now?,what time is it now ? ?,6,7,0.9231,1
+现在几点了？,What time is it now?,what time is it now ? ?,6,7,0.9231,1
+现在几点了？,What time is it now?,what time is it now ? ?,6,7,0.9231,1
+现在几点了？,What time is it now?,what time is it now ? ?,6,7,0.9231,1
+现在几点了？,What time is it now?,what time is it now ? ?,6,7,0.9231,1
+不要放弃希望。,Never give up hope.,never give up hope hope .,5,6,0.9091,1
+不要放弃希望。,Never give up hope.,never give up hope hope .,5,6,0.9091,1
+不要放弃希望。,Never give up hope.,never give up hope hope .,5,6,0.9091,1
+不要放弃希望。,Never give up hope.,never give up hope hope .,5,6,0.9091,1
+不要放弃希望。,Never give up hope.,never give up hope hope .,5,6,0.9091,1
+不要放弃希望。,Never give up hope.,never give up hope hope .,5,6,0.9091,1
+不要放弃希望。,Never give up hope.,never give up hope hope .,5,6,0.9091,1

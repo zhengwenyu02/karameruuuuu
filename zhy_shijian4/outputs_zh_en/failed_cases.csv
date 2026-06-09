@@ -1,0 +1,11 @@
+﻿source,reference,prediction,reference_len,prediction_len,token_f1,length_gap
+不要放弃希望。,Never give up hope.,never give up hope hope .,5,6,0.9091,1
+不要放弃希望。,Never give up hope.,never give up hope hope .,5,6,0.9091,1
+不要放弃希望。,Never give up hope.,never give up hope hope .,5,6,0.9091,1
+不要放弃希望。,Never give up hope.,never give up hope hope .,5,6,0.9091,1
+不要放弃希望。,Never give up hope.,never give up hope hope .,5,6,0.9091,1
+不要放弃希望。,Never give up hope.,never give up hope hope .,5,6,0.9091,1
+不要放弃希望。,Never give up hope.,never give up hope hope .,5,6,0.9091,1
+现在几点了？,What time is it now?,what time is it now ? ?,6,7,0.9231,1
+现在几点了？,What time is it now?,what time is it now ? ?,6,7,0.9231,1
+现在几点了？,What time is it now?,what time is it now ? ?,6,7,0.9231,1

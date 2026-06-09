@@ -1,0 +1,11 @@
+﻿source,reference,prediction,reference_len,prediction_len,token_f1,length_gap
+请帮我一下。,Please help me.,please help me .,4,4,1.0,0
+月亮挂在夜空。,The moon hangs in the night sky.,the moon hangs in the night sky .,8,8,1.0,0
+明天见。,See you tomorrow.,see you tomorrow .,4,4,1.0,0
+我想去海边游玩。,I want to travel to the seaside.,i want to travel to the seaside .,8,8,1.0,0
+我喜欢阅读和运动。,I like reading and sports.,i like reading and sports .,6,6,1.0,0
+努力就会有收获。,Hard work pays off.,hard work pays off .,5,5,1.0,0
+多喝水有益健康。,Drinking more water is good for health.,drinking more water is good for health .,8,8,1.0,0
+请排队等候。,Please line up.,please line up .,4,4,1.0,0
+花开了，春天来了。,Flowers bloom and spring comes.,flowers bloom and spring comes .,6,6,1.0,0
+早睡早起身体好。,Early to bed and early to rise keeps healthy.,early to bed and early to rise keeps healthy .,10,10,1.0,0
